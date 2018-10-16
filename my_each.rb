@@ -9,6 +9,6 @@ def my_each(array)
   array
 end
 
-def yielding do 
-  puts array[i]
-end
+# def yielding do 
+#   puts array[i]
+# end
